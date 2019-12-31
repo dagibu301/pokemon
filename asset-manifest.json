@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.dabbe5a6.chunk.css",
-    "main.js": "/static/js/main.ae3aaa6b.chunk.js",
-    "main.js.map": "/static/js/main.ae3aaa6b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b99d0e78.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b99d0e78.js.map",
-    "static/js/2.3f4ba9e3.chunk.js": "/static/js/2.3f4ba9e3.chunk.js",
-    "static/js/2.3f4ba9e3.chunk.js.map": "/static/js/2.3f4ba9e3.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.918b98200bf245452d1205f599577e7c.js": "/precache-manifest.918b98200bf245452d1205f599577e7c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.dabbe5a6.chunk.css.map": "/static/css/main.dabbe5a6.chunk.css.map",
-    "static/js/2.3f4ba9e3.chunk.js.LICENSE": "/static/js/2.3f4ba9e3.chunk.js.LICENSE"
+    "main.css": "/pokemon/static/css/main.dabbe5a6.chunk.css",
+    "main.js": "/pokemon/static/js/main.01871181.chunk.js",
+    "main.js.map": "/pokemon/static/js/main.01871181.chunk.js.map",
+    "runtime-main.js": "/pokemon/static/js/runtime-main.87a14318.js",
+    "runtime-main.js.map": "/pokemon/static/js/runtime-main.87a14318.js.map",
+    "static/js/2.3f4ba9e3.chunk.js": "/pokemon/static/js/2.3f4ba9e3.chunk.js",
+    "static/js/2.3f4ba9e3.chunk.js.map": "/pokemon/static/js/2.3f4ba9e3.chunk.js.map",
+    "index.html": "/pokemon/index.html",
+    "precache-manifest.b0b07a45009b89b54bd51f678635a0c6.js": "/pokemon/precache-manifest.b0b07a45009b89b54bd51f678635a0c6.js",
+    "service-worker.js": "/pokemon/service-worker.js",
+    "static/css/main.dabbe5a6.chunk.css.map": "/pokemon/static/css/main.dabbe5a6.chunk.css.map",
+    "static/js/2.3f4ba9e3.chunk.js.LICENSE": "/pokemon/static/js/2.3f4ba9e3.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.b99d0e78.js",
+    "static/js/runtime-main.87a14318.js",
     "static/js/2.3f4ba9e3.chunk.js",
     "static/css/main.dabbe5a6.chunk.css",
-    "static/js/main.ae3aaa6b.chunk.js"
+    "static/js/main.01871181.chunk.js"
   ]
 }

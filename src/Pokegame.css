@@ -1,0 +1,8 @@
+.Pokegame{
+    text-align: center;
+}
+
+.Pokegame-button-container{
+    display: flex;
+    justify-content: center;
+}
